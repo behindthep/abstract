@@ -1,0 +1,18 @@
+{
+    "name": "behindthep/abstract",
+    "description": "data abstraction train",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Behindthep\\Abstract\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Kolvakh",
+            "email": "alex.kolvah@mail.ru"
+        }
+    ],
+    "require": {}
+}
