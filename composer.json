@@ -6,7 +6,12 @@
     "autoload": {
         "psr-4": {
             "Behindthep\\Abstract\\": "src/"
-        }
+        }, 
+        "files": [
+            "src/Point.php", 
+            "src/Rational.php", 
+            "src/User.php"
+        ]
     },
     "authors": [
         {
