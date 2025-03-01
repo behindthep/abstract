@@ -19,5 +19,10 @@
             "email": "alex.kolvah@mail.ru"
         }
     ],
-    "require": {}
+    "scripts": {
+        "phpcs": "phpcs"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
+    }
 }
